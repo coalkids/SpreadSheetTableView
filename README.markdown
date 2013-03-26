@@ -23,7 +23,7 @@ Now create a SpreadSheetTableView like you do for a CPTableView (it works with x
 Demo application
 ----------------
 
-TODO
+https://github.com/coalkids/SpreadSheetTableView-Example
 
 License
 -------
