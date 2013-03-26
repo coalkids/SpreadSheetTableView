@@ -3,8 +3,10 @@ SpreadSheetTableView for CPTableView!
 
 What is SpreadSheetTableView ?
 ------------------------------
-SpreadSheetTableView is a small library for Cappuccino to use a CPTableView as a SpreadSheet (like Numbers or Excel).
+SpreadSheetTableView is a small library for Cappuccino to use a CPTableView as a SpreadSheet (Numbers or Excel style keyboard navigation).
 The actual features allow you to move easily in a CPTableView cell by cell with the arrows/tab/shift+tab.
+
+SpreadSheetTableView will call the same delegate's methods and dataSource's methods as a CPTableView.
 
 Getting Started
 ---------------
